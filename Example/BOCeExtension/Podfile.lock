@@ -1,0 +1,21 @@
+PODS:
+  - BOCeExtension (0.0.1)
+
+DEPENDENCIES:
+  - BOCeExtension (from `https://github.com/guang1472006/BOCeExtension.git`)
+
+EXTERNAL SOURCES:
+  BOCeExtension:
+    :git: https://github.com/guang1472006/BOCeExtension.git
+
+CHECKOUT OPTIONS:
+  BOCeExtension:
+    :commit: a605ee23cb05e1c459ea62ee057628fcc6b941f0
+    :git: https://github.com/guang1472006/BOCeExtension.git
+
+SPEC CHECKSUMS:
+  BOCeExtension: d1cbb08f9792834b0e2719ecc5907b764919729e
+
+PODFILE CHECKSUM: ab88be82abaad4965981e0b6a1bf26eaa9219951
+
+COCOAPODS: 1.10.1

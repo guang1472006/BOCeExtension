@@ -1,0 +1,6 @@
+framework module BOCeExtension {
+  umbrella header "BOCeExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}
